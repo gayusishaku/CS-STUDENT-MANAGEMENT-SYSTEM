@@ -82,7 +82,7 @@
 			
 				<font style="color:green; font-family:Calibri;">For users to join the Group Chat, they have to create new accout for the chat.
 				<font style="color:yellow; font-family:Calibri;">Sir you can use any of this usernames to <b>login:</b>
-				<font style="color:green; font-family:tahoma;">1. yascoby, 2. ishaku, 3. sixtus, 4. saul and 5. solome.<p><font style="color:red; font-family:Calibri;">All passwords are the same: <i><font style="color:green; font-family:tahoma;">passwords</i></p>
+				<font style="color:green; font-family:tahoma;">1. sixtus, 2.saul and 3. solome.<p><font style="color:red; font-family:Calibri;">All passwords are the same as the user name. <i><font style="color:green; font-family:tahoma;">passwords</i></p>
 				<a href="profile.php">
 			<h3><p><font style="color:red; font-family:Calibri;">Back to Profile?</a>
 			</h3>
