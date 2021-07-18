@@ -1,5 +1,5 @@
 # CS-STUDENT-MANAGEMENT-SYSTEM
-Web application to manage cs student's record with a group chat,built using HTML, CSS, JavaScript,PHP and MySql.
+A simple web application to manage student's record/bioda, enable the student update the saved data and a group chat,built using HTML, CSS, JavaScript,PHP and MySql.
 
 CS-Student Management System: HOW TO RUN IT.
  *Requirements: Local server XAMP or WAMP.
